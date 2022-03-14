@@ -14,7 +14,7 @@
     <name>BnrgPokeApi</name>
     <description>Consumir Rest Api Pokemon</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <!---dependency>
