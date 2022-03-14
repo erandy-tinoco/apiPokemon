@@ -14,5 +14,4 @@ import lombok.Data;
 public class NamePokemon {
 
     private String name;
-
 }
